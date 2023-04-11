@@ -1,5 +1,6 @@
 {
     "yaml.schemas": {
         "https://json.schemastore.org/github-workflow.json": "file:///home/gekitsuu/repos/gekitsuu/.github/workflows/action.yml"
-    }
+    },
+    "python.formatting.provider": "black"
 }
