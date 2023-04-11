@@ -18,9 +18,8 @@ jobs:
         with:
           python-version: "3.11"
       - uses: Gr1N/setup-poetry@v8
-      - run: poetry --version
       - run: poetry install
       - run: pwd
       - run: ls
-      - run: python make_readme.py
+      - run: poetry run -- python ./make_readme.py
       
