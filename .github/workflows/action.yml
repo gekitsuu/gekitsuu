@@ -7,9 +7,11 @@ on:
 
 
 jobs:
-  steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4 
-      with:
-        python-version: 'pypy3.11' 
-    - run: bin/python make_readme.py
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4 
+        with:
+          python-version: 'pypy3.11' 
+      - run: bin/python make_readme.py
