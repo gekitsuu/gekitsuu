@@ -13,13 +13,20 @@ jobs:
   update_readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout Gekitsuu Git Repo
+        uses: actions/checkout@v3
+      
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-      - uses: Gr1N/setup-poetry@v8
-      - run: poetry install
-      - run: pwd
-      - run: ls
-      - run: poetry run -- python ./make_readme.py
+
+      - name: Setup Python Poetry
+        uses: Gr1N/setup-poetry@v8
+      
+      - name: Install Project dependencies
+        run: poetry install
+      
+      - name: Build README.md file
+        run: poetry run -- python ./make_readme.py
       
