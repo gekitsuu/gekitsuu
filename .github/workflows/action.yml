@@ -20,4 +20,7 @@ jobs:
       - name: Setup Poetry
         uses: Gr1N/setup-poetry@v8
       - run: poetry install
+      - run: pwd
+      - run: ls
       - run: python bin/make_readme.py
+      
