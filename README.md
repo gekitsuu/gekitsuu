@@ -1,3 +1,26 @@
 ```
-b'gekitsuu(1)                                                                                             gekitsuu(1)\n\nNAME\n       gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience\n\nSYNOPSIS\n       \xe2\x80\xa2 \xf0\x9f\x91\x8b Hi, I\xe2\x80\x99m @gekitsuu\n\n       \xe2\x80\xa2 \xf0\x9f\x91\x80 I\xe2\x80\x99m interested in security, Python, 3d Modeling, learning, teaching, and growing.\n\n       \xe2\x80\xa2 \xf0\x9f\x8c\xb1 I\xe2\x80\x99m currently learning how to be a better manager\n\n       \xe2\x80\xa2 \xf0\x9f\x92\x9e\xef\xb8\x8f I\xe2\x80\x99m looking to collaborate about making better leaders\n\n       \xe2\x80\xa2 \xf0\x9f\x93\xab How to reach me @gekitsuu on Twitter\n\nDESCRIPTION\n       Here is my Description\n\nAUTHORS\n       Adam Glenn.\n\ngekitsuu 0.1.3    {{ datetime.datetime.now().strftime(\xe2\x80\x9c1B\xe2\x80\x9d) }} {{ datetime.datetime.now().year }}       gekitsuu(1)\n'
+gekitsuu(1)                                                                                             gekitsuu(1)
+
+NAME
+       gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience
+
+SYNOPSIS
+       • 👋 Hi, I’m @gekitsuu
+
+       • 👀 I’m interested in security, Python, 3d Modeling, learning, teaching, and growing.
+
+       • 🌱 I’m currently learning how to be a better manager
+
+       • 💞️ I’m looking to collaborate about making better leaders
+
+       • 📫 How to reach me @gekitsuu on Twitter
+
+DESCRIPTION
+       Here is my Description
+
+AUTHORS
+       Adam Glenn.
+
+gekitsuu 0.1.3                                       April 2023                                         gekitsuu(1)
+
 ```
