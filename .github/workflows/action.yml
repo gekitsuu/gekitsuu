@@ -32,7 +32,7 @@ jobs:
 
       - id: commit_files
         name: Commit files  
-        run:
+        run: |
           git config --local user.name "Adam Glenn"
           git config --local user.email "gekitsuu@gmail.com"
           git add README.md
