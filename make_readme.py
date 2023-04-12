@@ -5,7 +5,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 
 def get_environment():
-    return Environment(loader=FileSystemLoader("templates"), autoescape=select_autoescape())
+    return Environment(loader=FileSystemLoader("templates"), autoescape=select_autoescape())  # noqa: E501
 
 def get_manpage(env):
     template = env.get_template("manpage.md")
@@ -14,8 +14,8 @@ def get_manpage(env):
     with open('rendered_manpage.md', '+w') as fh:
         fh.write(template.render())
     
-    subprocess.check_output('pandoc rendered_manpage.md -s -t man -o gekitsuu.1', shell=True)
-    rendered_manpage = subprocess.check_output('MANWIDTH=80 man -l gekitsuu.1|cat', shell=True)
+    subprocess.check_output('pandoc rendered_manpage.md -s -t man -o gekitsuu.1', shell=True)  # noqa: E501
+    rendered_manpage = subprocess.check_output('MANWIDTH=80 man -l gekitsuu.1|cat', shell=True)  # noqa: E501
 
     return rendered_manpage
 
