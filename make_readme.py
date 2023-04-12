@@ -8,7 +8,7 @@ def get_environment():
 def main():
     env = get_environment()
     template = env.get_template("source_readme.md")
-    with open('README.md', '+rw') as fh:
+    with open('README.md', '+w') as fh:
         fh.write(template.render())
 
 
