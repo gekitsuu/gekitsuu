@@ -15,7 +15,7 @@ def get_manpage(env):
         fh.write(template.render())
     
     subprocess.check_output('pandoc rendered_manpage.md -s -t man -o gekitsuu.1', shell=True)
-    rendered_manpage = subprocess.check_output('man -l gekitsuu.1|cat', shell=True)
+    rendered_manpage = subprocess.check_output('MANWIDTH=80 man -l gekitsuu.1|cat', shell=True)
 
     return rendered_manpage
 
