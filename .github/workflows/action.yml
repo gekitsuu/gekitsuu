@@ -29,4 +29,15 @@ jobs:
       
       - name: Build README.md file
         run: poetry run -- python ./make_readme.py
+
+      - id: commit_files
+        name: Commit files  
+        run:
+          git config --local user.name "Adam Glenn"
+          git config --local user.email "gekitsuu@gmail.com"
+          if ! git diff --exit-code; then
+              git add README.md
+              git commit -am "GH Action Files added $(date)"
+              git push -f origin main
+          fi
       
