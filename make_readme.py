@@ -1,13 +1,22 @@
+import datetime
+import subprocess
+
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 
 def get_environment():
     return Environment(loader=FileSystemLoader("templates"), autoescape=select_autoescape())
 
+def get_manpage():
+    subprocess.check_output('pandoc templates/manpage.md -s -t man -o gekitsuu.1', shell=True)
+    rendered_manpage = subprocess.check_output('man -l gekitsuu.1|cat', shell=True)
+    return rendered_manpage
 
 def main():
     env = get_environment()
-    template = env.get_template("source_readme.md")
+    template = env.get_template("readme.md")
+    template.globals['datetime'] = datetime
+    template.globals['manpage'] = get_manpage()
     with open('README.md', '+w') as fh:
         fh.write(template.render())
 

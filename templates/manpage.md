@@ -1,7 +1,16 @@
+% gekitsuu(1) gekitsuu 0.1.3
+% Adam Glenn
+% {{ datetime.datetime.now().strftime("%B") }} {{ datetime.datetime.now().year }}
+
+# NAME
+gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience
+
+# SYNOPSIS
 - 👋 Hi, I’m @gekitsuu
 - 👀 I’m interested in security, Python, 3d Modeling, learning, teaching, and growing. 
 - 🌱 I’m currently learning how to be a better manager
 - 💞️ I’m looking to collaborate about making better leaders
 - 📫 How to reach me @gekitsuu on Twitter
 
-Foo
+# DESCRIPTION
+Here is my Description
