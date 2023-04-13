@@ -33,11 +33,10 @@ jobs:
       - name: Build README.md file
         run: poetry run -- python ./make_readme.py
 
-      - id: commit_files
-        name: Commit files  
-        run: |
-          git config --local user.name "Adam Glenn"
-          git config --local user.email "gekitsuu@gmail.com"
-          git add README.md
-          git commit -am "GH Action Files added $(date)"
-          git push -f origin main
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9.1.1
+        with:
+          author_name: "Adam Glenn"
+          author_email: "gekitsuu@gmail.com"
+          message: 'Daily Update from GitHub Action'
+
