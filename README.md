@@ -22,6 +22,6 @@ DESCRIPTION
 AUTHORS
        Adam Glenn.
 
-gekitsuu 0.1.3                    April 2023                       gekitsuu(1)
+gekitsuu 0.1.3                     May 2023                        gekitsuu(1)
 
 ```
