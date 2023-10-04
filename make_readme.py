@@ -1,4 +1,5 @@
 import datetime
+import platform
 import subprocess
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -15,7 +16,15 @@ def get_manpage(env):
         fh.write(template.render())
     
     subprocess.check_output('pandoc rendered_manpage.md -s -t man -o gekitsuu.1', shell=True)  # noqa: E501
-    rendered_manpage = subprocess.check_output('MANWIDTH=80 man -l gekitsuu.1|cat', shell=True)  # noqa: E501
+
+    os_name = platform.system()
+    
+    if os_name == 'Darwin':
+        man_command = "man "
+    else:
+        man_command = "man -l "
+    
+    rendered_manpage = subprocess.check_output(f'MANWIDTH=80 {man_command} ./gekitsuu.1|cat', shell=True)  # noqa: E501
 
     return rendered_manpage
 
