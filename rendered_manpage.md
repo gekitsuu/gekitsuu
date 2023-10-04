@@ -29,7 +29,7 @@ I like to receive feedback on zoom or in person and as soon as possible.
 
 # THINGS I NEED
 
-As someone with ADHD and on the Autistic spectrum, I need to manage my sensory inputs a bit. Sometimes this means I need alone/quiet space or I may use earplugs or headphones to make my envionrment softer.
+I am someone who has ADHD and I'm on the Autistic spectrum. I need to manage my sensory inputs sometimes. This could mean I need alone/quiet space or I may use earplugs or headphones to make my envionrment softer. I'm usually pretty clear about when I need to step away but if you see me off in the corner it's probably me managing my sensory inputs and not that I'm anti-social by nature. 
 
 # HOW I LEARN BEST
 
