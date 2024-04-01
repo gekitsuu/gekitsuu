@@ -95,6 +95,6 @@ OTHER THINGS I WANT YOU TO KNOW ABOUT ME
 AUTHORS
        Adam Glenn.
 
-gekitsuu 0.1.3                    March 2024                       gekitsuu(1)
+gekitsuu 0.1.3                    April 2024                       gekitsuu(1)
 
 ```
