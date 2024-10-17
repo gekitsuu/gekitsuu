@@ -29,28 +29,28 @@ COMMUNICATION PREFERENCES
        can’t reach me by phone or Slack.
 
 PREFERRED WAYS TO RECEIVE FEEDBACK
-       I like to receive feedback on zoom or in person and as soon  as  possi‐
+       I  like  to receive feedback on zoom or in person and as soon as possi‐
        ble.
 
 THINGS I NEED
-       I  am someone who has ADHD and I’m on the Autistic spectrum.  I need to
+       I am someone who has ADHD and I’m on the Autistic spectrum.  I need  to
        manage my sensory inputs sometimes.  This could mean I need alone/quiet
        space or I may use earplugs or headphones to make my envionrment  soft‐
        er.  I’m usually pretty clear about when I need to step away but if you
-       see  me  off  in the corner it’s probably me managing my sensory inputs
+       see me off in the corner it’s probably me managing  my  sensory  inputs
        and not that I’m anti-social by nature.
 
 HOW I LEARN BEST
-       I need some amount of time to do things  at  my  own  pace  before  I’m
+       I  need  some  amount  of  time  to do things at my own pace before I’m
        thrown into structured learning.  I usualy take time to research a top‐
        ic  to a certain degree before I’m going to take training or a class so
        that I can more easliy follow the course material.  Sometimes I need to
-       do things again and again so I gravitate towards video  based  instruc‐
+       do  things  again and again so I gravitate towards video based instruc‐
        tion so I can pause, take notes, rewind, rewatch sections, etc.
 
 THINGS I STRUGGLE WITH
-       Writing.   I have Dysgraphia (https://en.wikipedia.org/wiki/Dysgraphia)
-       and it has a huge impact in how long it takes me to  write  things  and
+       Writing.  I have Dysgraphia  (https://en.wikipedia.org/wiki/Dysgraphia)
+       and  it  has  a huge impact in how long it takes me to write things and
        the quality of my writing.
 
 THINGS I LOVE
@@ -69,17 +69,16 @@ THINGS I LOVE
        • Growing as a person
 
 IF I WERE AN ANIMATED GIF I WOULD BE..
-       [IMAGE:  Jack  black  awkard smile from Nacho Libre (https://media3.gi‐
+       [IMAGE: Jack black awkard smile from  Nacho  Libre  (https://media3.gi‐
        phy.com/media/blEl99OgPQnNS/giphy.gif?cid=ecf05e47l8mofdhdea5lqp‐
-       saf17j9ura5oqlnqn198hlf7q4&ep=v1_gifs_search&rid=giphy.gif&ct=g)]  Jack
-       black awkard smile from Nacho Libre
+       saf17j9ura5oqlnqn198hlf7q4&ep=v1_gifs_search&rid=giphy.gif&ct=g)]
 
 MY FAVORITE SAYING IS
-              Talent  hits a target no one else can hit.  Genius hits a target
+              Talent hits a target no one else can hit.  Genius hits a  target
               no one else can see.  - Arthur Schopenhauer
 
 OTHER THINGS I WANT YOU TO KNOW ABOUT ME
-       • 💞️ I’m interested in talking to other leaders about  leadership,  to
+       • 💞️  I’m  interested in talking to other leaders about leadership, to
          become a better leader myself.
 
        • 📫 How to reach me:
