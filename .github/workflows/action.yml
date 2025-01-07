@@ -28,7 +28,7 @@ jobs:
         uses: Gr1N/setup-poetry@v8
       
       - name: Install Project dependencies
-        run: poetry install
+        run: poetry install --no-root
       
       - name: Build README.md file
         run: poetry run -- python ./make_readme.py
