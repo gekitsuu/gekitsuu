@@ -1,6 +1,6 @@
 % gekitsuu(1) gekitsuu 0.1.3
 % Adam Glenn
-% July 2026
+% August 2026
 
 # NAME
 gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience
