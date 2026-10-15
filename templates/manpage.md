@@ -3,7 +3,7 @@
 % {{ datetime.datetime.now().strftime("%B") }} {{ datetime.datetime.now().year }}
 
 # NAME
-gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience
+gekitsuu - Adam Glenn
 
 # SYNOPSIS
 
@@ -17,7 +17,7 @@ gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience
 
 # PREFERRED WORKING HOURS
 
-I work a pretty strict 9-5 schedule but I do occasionaly make exceptions. Chances are if you try message me on Slack outside of those hours I won't respond until the next day. If you need to reach me in an emergency, you can always call my phone. If I don't pick up leave a message and I'll call you back. SMS, Signal, and Telegram are all other easy ways to reach me.
+I work a pretty strict 9-5 schedule but I do occasionally make exceptions. Chances are if you try message me on Slack outside of those hours I won't respond until the next day. If you need to reach me in an emergency, you can always call my phone. If I don't pick up leave a message and I'll call you back. SMS, Signal, and Telegram are all other easy ways to reach me.
 
 # COMMUNICATION PREFERENCES
 
@@ -41,6 +41,7 @@ Writing. I have [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia) and it ha
 
 # THINGS I LOVE
 
+- AI/LLMs/Machine Learning
 - Physical and Computer Security
 - Python
 - 3D Modeling with Blender
@@ -59,9 +60,8 @@ Writing. I have [Dysgraphia](https://en.wikipedia.org/wiki/Dysgraphia) and it ha
 
 # OTHER THINGS I WANT YOU TO KNOW ABOUT ME
 
-- 💞️ I’m interested in talking to other leaders about leadership, to become a better leader myself.
+- 💞️ I love talking about AI, ask me about my Pantheon
 - 📫 How to reach me:
-    - Mastodon: (@gekitsuu@defcon.social)[https://defcon.social/@gekitsuu]
     - GitHub: (Gekitsuu)[https://github.com/gekitsuu]
     - Keybase: (Gekitsuu)[https://keybase.io/gekitsuu]
     - Signal
