@@ -2,7 +2,7 @@
 gekitsuu(1)                                                        gekitsuu(1)
 
 NAME
-       gekitsuu - Adam Glenn, Senior Engineering Manager, Developer Experience
+       gekitsuu - Adam Glenn
 
 SYNOPSIS
        👋 Hi, I’m @gekitsuu.
@@ -15,7 +15,7 @@ ENVIRONMENTS I LIKE TO WORK IN
        • Coffee shops
 
 PREFERRED WORKING HOURS
-       I  work  a  pretty strict 9-5 schedule but I do occasionaly make excep‐
+       I  work  a pretty strict 9-5 schedule but I do occasionally make excep‐
        tions.  Chances are if you try message me on  Slack  outside  of  those
        hours  I  won’t respond until the next day.  If you need to reach me in
        an emergency, you can always call my phone.  If I don’t pick up leave a
@@ -54,6 +54,8 @@ THINGS I STRUGGLE WITH
        the quality of my writing.
 
 THINGS I LOVE
+       • AI/LLMs/Machine Learning
+
        • Physical and Computer Security
 
        • Python
@@ -79,13 +81,9 @@ MY FAVORITE SAYING IS
               no one else can see.  - Arthur Schopenhauer
 
 OTHER THINGS I WANT YOU TO KNOW ABOUT ME
-       • 💞️ I’m interested in talking to other leaders about  leadership,  to
-         become a better leader myself.
+       • 💞️ I love talking about AI, ask me about my Pantheon
 
        • 📫 How to reach me:
-
-         • Mastodon:   (@gekitsuu@defcon.social)[https://defcon.social/@gekit‐
-           suu]
 
          • GitHub: (Gekitsuu)[https://github.com/gekitsuu]
 
